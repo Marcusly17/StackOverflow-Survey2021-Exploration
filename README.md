@@ -28,7 +28,7 @@ Q3: Student, academic researcher, Mobile Developer, educator, gamer or graphic d
 
 
 
-A more detailed discussion can be found at the post here. 
+A more detailed discussion can be found at the post [here](https://medium.com/@3nh/a-look-at-gender-equality-mental-health-and-money-in-developers-9f06cfd8c8b5). 
 
 ## Acknowledgements
 
